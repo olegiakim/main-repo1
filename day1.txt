@@ -1,1 +1,3 @@
 Learning git
+
+We just out first commit
