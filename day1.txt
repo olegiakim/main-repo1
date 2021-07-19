@@ -1,3 +1,5 @@
 Learning git
 
 We just out first commit
+
+Git keep track of changes from the last point you made commit till the current change you make you can commit your changes...
